@@ -1,0 +1,6 @@
+﻿  Perimetro.cpp
+C:\Users\ferch\Documents\LogProg2025602153\Perimetro\Perimetro.cpp(16,34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ferch\Documents\LogProg2025602153\Perimetro\Perimetro.cpp(17,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ferch\Documents\LogProg2025602153\Perimetro\Perimetro.cpp(22,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ferch\Documents\LogProg2025602153\Perimetro\Perimetro.cpp(23,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Perimetro.vcxproj -> C:\Users\ferch\Documents\LogProg2025602153\Perimetro\x64\Debug\Perimetro.exe

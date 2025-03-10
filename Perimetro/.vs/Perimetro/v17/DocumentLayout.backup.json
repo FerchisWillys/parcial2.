@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferch\\Documents\\LogProg2025602153\\Perimetro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0129D5FD-A492-49EE-85CC-B93E13220127}|Perimetro.vcxproj|C:\\Users\\ferch\\Documents\\LogProg2025602153\\Perimetro\\Perimetro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0129D5FD-A492-49EE-85CC-B93E13220127}|Perimetro.vcxproj|solutionrelative:Perimetro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perimetro.cpp",
+              "DocumentMoniker": "C:\\Users\\ferch\\Documents\\LogProg2025602153\\Perimetro\\Perimetro.cpp",
+              "RelativeDocumentMoniker": "Perimetro.cpp",
+              "ToolTip": "C:\\Users\\ferch\\Documents\\LogProg2025602153\\Perimetro\\Perimetro.cpp",
+              "RelativeToolTip": "Perimetro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T07:06:04.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

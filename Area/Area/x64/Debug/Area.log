@@ -1,0 +1,4 @@
+﻿  Area.cpp
+C:\Users\ferch\Documents\LogProg2025602153\Area\Area.cpp(13,42): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ferch\Documents\LogProg2025602153\Area\Area.cpp(14,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Area.vcxproj -> C:\Users\ferch\Documents\LogProg2025602153\Area\x64\Debug\Area.exe
