@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="DONAS"/>
+        <attribute name="authors" value="ferch"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-26 02:48:12 p. m."/>
+        <attribute name="created" value="ZmVyY2g7RkVSQ0hJUzsyMDI1LTAzLTI2OzAyOjE1OjU3IHAuIG0uOzI1MDg="/>
+        <attribute name="edited" value="ZmVyY2g7RkVSQ0hJUzsyMDI1LTAzLTI2OzAyOjQ4OjEyIHAuIG0uOzE7MjYxMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="DONAS" type="Integer" array="False" size=""/>
+            <assign variable="DONAS" expression="0"/>
+            <input variable="DONAS"/>
+            <if expression="DONAS&gt;30">
+                <then>
+                    <output expression="&quot;(10)&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;(8)&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
