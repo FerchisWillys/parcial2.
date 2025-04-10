@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="factorial"/>
+        <attribute name="authors" value="ferch"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-04-08 08:44:44 p. m."/>
+        <attribute name="created" value="ZmVyY2g7RkVSQ0hJUzsyMDI1LTA0LTA4OzA4OjM1OjQ3IHAuIG0uOzI1MTY="/>
+        <attribute name="edited" value="ZmVyY2g7RkVSQ0hJUzsyMDI1LTA0LTA4OzA4OjQ0OjQ0IHAuIG0uOzE7MjYyMQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x, y, z" type="Integer" array="False" size=""/>
+            <assign variable="z" expression="1"/>
+            <assign variable="y" expression="1"/>
+            <output expression="&quot;escriba el numero&quot;" newline="True"/>
+            <input variable="x"/>
+            <while expression="z&lt;=x">
+                <assign variable="y" expression="y*1"/>
+                <assign variable="z" expression="z+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
